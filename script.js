@@ -1,4 +1,4 @@
-
+//Este es el codigo en javaScript
 document.addEventListener("DOMContentLoaded", function() {
     const redInput = document.getElementById("redInput");
     const greenInput = document.getElementById("greenInput");
